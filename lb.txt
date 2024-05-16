@@ -1,0 +1,1 @@
+vless://bdedef1f-9301-4d17-c935-b9b9bc1569b1@anten.ir:443?encryption=none&security=tls&sni=anten.ir&alpn=h2&fp=chrome&type=ws&host=nim-73d4f83265-yas.apps.ir-tbz-sh1.arvancaas.ir&path=%2F#lb
